@@ -1,5 +1,6 @@
 # Neural Style Transfer Transition Video Processing
 By Brycen Westgarth and Tristan Jogminas
+https://github.com/westgarthb/style-transfer-video-processor
 
 ## Description
 This code extends the [neural style transfer](https://www.tensorflow.org/tutorials/generative/style_transfer) 
